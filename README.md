@@ -15,7 +15,6 @@ Gender inequality remains a significant issue globally, affecting opportunities,
 | RAMA KRISHNAN M      | 2023lm70045@wilp.bits-pilani.ac.in| 2023lm70045      | User Researcher, Programmer        |
 | KRUNAL KRISHNA HALLUR| 2023lm70046@wilp.bits-pilani.ac.in| 2023lm70046      | Technical Analyst, Programmer      |
 
-*You can update this table with your actual group members.*
 
 ---
 
