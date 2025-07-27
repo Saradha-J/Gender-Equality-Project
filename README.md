@@ -39,4 +39,6 @@ Gender inequality remains a significant issue globally, affecting opportunities,
 ## 📁 Folder Structure
 
 - `/docs` – PRD, full documentation
+- `/diagrams` – All system design diagrams 
+- `/survey_responses` – Google Form result files
 
