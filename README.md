@@ -36,3 +36,7 @@ Gender inequality remains a significant issue globally, affecting opportunities,
 
 ---
 
+## 📁 Folder Structure
+
+- `/docs` – PRD, full documentation
+
