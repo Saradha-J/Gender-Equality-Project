@@ -11,9 +11,9 @@ Gender inequality remains a significant issue globally, affecting opportunities,
 
 | Name         | Email                   | Registration Number | Roles                              |
 |--------------|-------------------------|---------------------|-------------------------------------|
-| Saradha J            | 2023lm70042@wilp.bits-pilani.ac.in| 2023lm70042      | PM, Tester                         |
-| RAMA KRISHNAN M      | 2023lm70045@wilp.bits-pilani.ac.in| 2023lm70045      | User Researcher, Programmer        |
-| KRUNAL KRISHNA HALLUR| 2023lm70046@wilp.bits-pilani.ac.in| 2023lm70046      | Technical Analyst, Programmer      |
+| Saradha J            | 2023lm70042@wilp.bits-pilani.ac.in| 2023lm70042      | PM, Technical Analyst,Tester                         |
+| RAMA KRISHNAN M      | 2023lm70045@wilp.bits-pilani.ac.in| 2023lm70045      | User Researcher, Technical Analyst,Programmer        |
+
 
 
 ---
