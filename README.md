@@ -76,3 +76,17 @@ npm run dev
 - Email/SMS notifications
 - Multi-language UI
 
+# Dependencies
+node_modules/
+dist/
+build/
+
+# Environment variables
+.env
+data/*.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
