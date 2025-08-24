@@ -42,3 +42,37 @@ Gender inequality remains a significant issue globally, affecting opportunities,
 - `/diagrams` – All system design diagrams 
 - `/survey_responses` – Google Form result files
 
+ ## Monorepo Structure
+- `backend/` — Express API + SQLite (via better-sqlite3), with schema and seed utilities.
+- `frontend/` — React app with pages for reporting, resources, and admin dashboard.
+
+## Quick Start (Dev)
+```bash
+# Backend
+cd backend
+cp .env.example .env
+npm install
+npm run dev
+# Frontend (in new terminal)
+cd ../frontend
+npm install
+npm run dev
+```
+
+## API Endpoints
+- `GET /api/health` (ping)
+- `GET /api/reports` (list)
+- `POST /api/reports` (create) `{ is_anonymous, category, description }`
+- `GET /api/reports/:id` (detail)
+- `PATCH /api/reports/:id` (update status)
+- `GET /api/reports/:id/messages` (list messages)
+- `POST /api/reports/:id/messages` (add message) `{ sender_role, message }`
+- `GET /api/resources?kind=article|video|policy|helpline`
+- `POST /api/resources` (create resource)
+
+## Next Steps
+- Add authentication for admin/counselor roles
+- File uploads for evidence
+- Email/SMS notifications
+- Multi-language UI
+
