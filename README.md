@@ -23,8 +23,8 @@ Gender inequality remains a significant issue globally, affecting opportunities,
 - **Project Manager (PM):** Saradha J
 - **Tester:** Saradha J
 - **User Researcher:** RAMA KRISHNAN M 
-- **Programmer:** RAMA KRISHNAN M ,KRUNAL KRISHNA HALLUR
-- **Technical Analyst:** KRUNAL KRISHNA HALLUR
+- **Programmer:** RAMA KRISHNAN M , Saradha J
+- **Technical Analyst:** Saradha J, RAMA KRISHNAN M
 
 ---
 
